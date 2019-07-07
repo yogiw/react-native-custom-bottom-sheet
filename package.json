@@ -6,6 +6,10 @@
   "scripts": {
     "test": "npm run test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogiwisesa/react-native-custom-bottom-sheet"
+  },
   "author": "Yogi Wisesa",
   "license": "MIT",
   "dependencies": {
