@@ -3,17 +3,17 @@ Bottom sheet component for React Native.
 
 # Props
 
-visible: Boolean <br />
+**visible**: *Boolean* <br />
 Bottom sheet visibility
 
-height: Number <br />
+**height**: *Number* <br />
 To control the height of the bottom sheet when visible.
 
-onVisibilityChange: Function <br />
+**onVisibilityChange**: *Function* <br />
 Callback to show/ hide the visibility of the bottom sheet.
 
-children: Any Component <br />
-Component you want to show inside the bottom sheet.
+**children**: *Any Component* <br />
+Component you want to show inside the bottom sheet. <br/>
 `<CustomBottomSheet> <AnyComponent/> </CustomBottomSheet>`
 
 # Example
