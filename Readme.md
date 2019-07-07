@@ -1,5 +1,5 @@
 # React Native Custom Bottom Sheet
-Bottom sheet component for React Native.
+Bottom sheet component with any view and smooth animation for React Native.
 
 # Props
 
