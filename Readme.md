@@ -1,6 +1,8 @@
 # React Native Custom Bottom Sheet
 Bottom sheet component with any view and smooth animation for React Native.
 
+![Preview](./preview.png)
+
 # Props
 
 **visible**: *Boolean* <br />
