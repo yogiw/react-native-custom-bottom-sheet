@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-bottom-sheet",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A custom & easy to use bottom sheet for react native",
   "main": "index.js",
   "scripts": {
