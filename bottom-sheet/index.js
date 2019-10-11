@@ -26,6 +26,15 @@ export default class BottomSheet extends React.Component {
     } else {
       this.hideAnimation();
     }
+
+    BackHandler.addEventListener('hardwareBackPress', function() {
+    
+      if (!this.props.visible) {
+        return true;
+      }
+      this.props.onVisibilityChange(false)
+      return false;
+    });
   }
 
   componentDidUpdate(prevProps, prevState) {
